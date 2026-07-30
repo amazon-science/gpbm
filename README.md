@@ -2,8 +2,7 @@
 
 This repo contains the code for the experiments in our paper "Generalized Position-Based Model: Rethinking Position Weights in Ranking Off-Policy Evaluation" published in RecSys 2026.
 
-Citation
-----
+### Citation
 
 If you use this code to produce results for your scientific publication, or if you share a copy or fork, please refer to our RecSys 2026 paper:
 ```
