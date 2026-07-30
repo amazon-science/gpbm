@@ -4,4 +4,4 @@ tensorflow==2.18.0
 tfds-nightly==4.9.9+nightly
 tqdm==4.67.1
 cvxpy==1.8.0
-jupyterlab==4.4.10
+jupyterlab==4.5.10
